@@ -1078,7 +1078,7 @@ nav {
 	position:absolute;
     opacity: 1;
     top: -50px; /* Move the logo to the top (adjust as needed) */
-    left: -180px; /* Move the logo to the left (adjust as needed) */
+    /*left: -180px; /* Move the logo to the left (adjust as needed) */
     width: 180px;
     margin-top: 11px; 
     -webkit-transition: all 0.4s ease;
